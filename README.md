@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Ravisher Dhillon
-Founder | AI Engineer | ML Systems | LLMs | Distributed Systems | Leadership
+Founder | AI Engineer | Leadership | Agentic AI | Distributed ML
 
 🚀 I build scalable AI systems, multi-agent workflows, and production ML pipelines.
 
-## 🔧 Tech Stack
-- Languages: Python, Go
-- ML/AI: PyTorch, TensorFlow, Transformers
-- LLM: RAG, Fine-tuning, Prompt Engineering
+## 🔧 Top Skills
+- Languages: Python, Java, JavaScript
+- ML/AI: PyTorch, Scikit-Learn, XGBoost, Random Force, Forecasting, Recommender Systems
+- Generative AI: LLMs, RAG, Fine-tuning, Prompt Engineering, Claude Code, OpenAI
+- Data Engineering: Apache Spark, Snowflake, Airflow
+- Frameworks: LangChain, LangGraph, AWS SageMaker, AgentCore, Azure AI Foundry, HuggingFace
 - Backend: FastAPI, Docker, Kubernetes
 - Data: PostgreSQL, Redis, Vector DBs (FAISS, Pinecone)
 
@@ -22,5 +24,5 @@ Founder | AI Engineer | ML Systems | LLMs | Distributed Systems | Leadership
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/dhillon1699
-- Email: <email>
+- Email: ravisher.dhillon@gmail.com
 
