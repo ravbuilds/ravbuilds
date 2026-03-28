@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Ravisher Dhillon
+Founder | AI Engineer | ML Systems | LLMs | Distributed Systems | Leadership
 
-<!--
-**ravbuilds/ravbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build scalable AI systems, multi-agent workflows, and production ML pipelines.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Languages: Python, Go
+- ML/AI: PyTorch, TensorFlow, Transformers
+- LLM: RAG, Fine-tuning, Prompt Engineering
+- Backend: FastAPI, Docker, Kubernetes
+- Data: PostgreSQL, Redis, Vector DBs (FAISS, Pinecone)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Focus
+- Multi-agent systems
+- LLM inference optimization
+- AI for logistics automation
+
+## 📌 Featured Projects
+- 🔗 [Multi-Agent Dispatch System](#)
+- 🔗 [LLM Inference Optimizer](#)
+- 🔗 [RAG Pipeline for Documents](#)
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/dhillon1699
+- Email: <email>
+
